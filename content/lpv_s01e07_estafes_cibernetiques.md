@@ -16,6 +16,6 @@ Al final, reforcem la importància de la precaució en línia i animem els oient
 ## Enllaços
 
 - [El príncep nigerià](https://ca.wikipedia.org/wiki/Scam) (Viquipèdia, en català)
-- [Spanish Prisoner](https://en.wikipedia.org/wiki/Spanish_Prisoner) (Wikipedia, en anglès). Aquí teniu [la traducció al català](https://en-m-wikipedia-org.translate.goog/wiki/Spanish_Prisoner?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) feta per Google. A Espanya se'l coneix per "[Timo del entierro](https://es.wikipedia.org/wiki/Timo_del_entierro" (Wikipedia, en castellà)
+- [Spanish Prisoner](https://en.wikipedia.org/wiki/Spanish_Prisoner) (Wikipedia, en anglès). Aquí teniu [la traducció al català](https://en-m-wikipedia-org.translate.goog/wiki/Spanish_Prisoner?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) feta per Google. A Espanya se'l coneix per "[Timo del entierro](https://es.wikipedia.org/wiki/Timo_del_entierro)" (Wikipedia, en castellà)
 - [Phishing](https://ca.wikipedia.org/wiki/Pesca_(informàtica)) (Viquipèdia, en català)
 - [El fals suport tècnic](https://en.wikipedia.org/wiki/Technical_support_scam) (Wikipedia, en anglès). Aquí teniu [la traducció al català](https://en-m-wikipedia-org.translate.goog/wiki/Technical_support_scam?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) feta per Google.
