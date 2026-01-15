@@ -24,17 +24,21 @@ Comentem el cas d’Endesa (i Energía XXI) i per què, després d’una filtrac
 #### Recursos i URLs
 
 **Si necessites contactar amb Endesa o Energía XXI**
+
 - **Endesa**: 800 760 366
 - **Energía** XXI: 800 760 250
 
 **Comunicats**
+
 - [Comunicat del INCIBE (Instituto Nacional de Ciberseguridad) sobe la fuita de dades](https://www.incibe.es/ciudadania/avisos/endesa-notifica-sus-clientes-una-filtracion-de-datos-personales)
 
 **Alertes de suplantació en joc online (DGOJ / “Phishing Alert”)**
+
 - [Informació del servei (DGOJ)](https://www.ordenacionjuego.es/participantes-juego/juego-autorizado/alerta-suplantacion-identidad)
 - [Tràmit d’inscripció / modificació / baixa (Seu electrònica DGOJ)](https://sede.ordenacionjuego.gob.es/convocatoria%3D180)
 
 **CIRBE (Banc d’Espanya) — sol·licitar el teu informe de riscos**
+
 - [Sol·licitud d’informe de riscos CIRBE (Seu electrònica BdE)](https://sedeelectronica.bde.es/sede/es/tramites/solicitud-informes-riesgos-cirbe-p58.html)
 - [Informació general sobre CIRBE (Portal del Client Bancari BdE)](https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/relacionados/cirbe/)
 - [Pàgina informativa BdE sobre la Central d’Informació de Riscos](https://www.bde.es/wbe/es/para-ciudadano/gestiones/informacion-riesgos-cir/)
